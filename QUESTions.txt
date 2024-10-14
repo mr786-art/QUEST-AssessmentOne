@@ -1,0 +1,127 @@
+		-------QUEST MCQ quiz--------
+1. Which of the following collection types maintains key-value pairs in C#?
+A.List
+B.Array
+C.Dictionary
+D.Queue
+
+2.Which of these keywords is used to make a variable nullable?
+A.?
+B.!
+C.@
+D.#
+
+3.What will be the output of the following code? int? a = null; Console.WriteLine(a ?? 0);
+A.null
+B.0
+C.Compile-time error
+D.Runtime error
+
+4. Which of the following is a value type in C#?
+A.String
+B.Array
+C.Int
+D.Object
+
+5. Which of the following allows dynamic resizing in C#?
+A.Array
+B.List
+C.Tuple
+D.Struct
+
+
+6.Which of the following is a correct way to initialize a dictionary in C#?
+A.Dictionary<int, string> dict = new Dictionary<int, string>();
+B.dict = new Dictionary<>();
+C.Dictionary<int, string> dict = new Dictionary<>();
+D.dict = new Dictionary<int, string>();
+
+
+7. What is the size of an int in C#?
+A.4 bytes
+B.8 bytes
+C.2 bytes
+D.16 bytes
+
+8.What is the default accessibility of class members in C#?
+A.public
+B.private
+C.protected
+D.internal
+
+9. Which keyword is used to pass arguments by reference in C#?
+A.out
+B.ref
+C.in
+D.pass
+
+10.What does the params keyword allow in C#?
+A.Pass a fixed number of arguments
+B.Pass a variable number of arguments
+C.Prevent passing any arguments
+D.Specify default arguments
+
+
+ 11.Which of the following is a correct declaration of a method with default parameters?
+A.void MyMethod(int x = 10)
+B.void MyMethod(int x, int y)
+C.void MyMethod(default int x)
+D.void MyMethod(int x: 10)
+
+12.Which of the following is NOT a value type in C#?
+A.int
+B.bool
+C.struct
+D.class
+
+13.Which of the following data types cannot store a null value?
+A.int
+B.string
+C.object
+D.int?
+
+
+14. Which of the following allows duplicate keys in C#?
+A.List
+B.Dictionary
+C.Array
+D.None of the above
+
+15. Which of the following is a reference type in C#?
+A.int
+B.float
+C.object
+D.bool
+
+16.Which method is used to add elements to a List in C#?
+A.Insert()
+B.Add()
+C.Append()
+D.Push()
+
+17. Which method in C# is used to split a string into an array?
+A.Split()
+B.Divide()
+C.Separate()
+D.Parse()
+
+
+18. Which of the following keywords is used to handle exceptions in C#?
+A.handle
+B.exception
+C.try
+D.check
+
+
+19. Which of the following is immutable in C#?
+A.Array
+B.String
+C.List
+D.Dictionary
+
+
+20. What is the default value of a nullable integer (int?) in C#?
+A.0
+B.null
+C.1
+D.undefined

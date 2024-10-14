@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AssesmentOne", "AssesmentOne", "{471A1091-BD7A-4C16-9CBF-7C8ED95A1B43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientRecordSystem", "PatientRecordSystem\PatientRecordSystem.csproj", "{1EE21FA6-9C7F-4539-80C8-3252CC9D9606}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MCQs", "MCQs", "{902E64B6-66E1-4696-A157-DEDDFA3EE160}"
+	ProjectSection(SolutionItems) = preProject
+		QUESTions.txt = QUESTions.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE21FA6-9C7F-4539-80C8-3252CC9D9606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE21FA6-9C7F-4539-80C8-3252CC9D9606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE21FA6-9C7F-4539-80C8-3252CC9D9606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE21FA6-9C7F-4539-80C8-3252CC9D9606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1EE21FA6-9C7F-4539-80C8-3252CC9D9606} = {471A1091-BD7A-4C16-9CBF-7C8ED95A1B43}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {555F4853-92BD-4ACD-A84D-E30AEBD5A6DE}
+	EndGlobalSection
+EndGlobal
